@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Common\MinimalMeet.Common\MinimalMeet.Common.csproj" />
+    <ProjectReference Include="..\MinimalMeet.Common\MinimalMeet.Common.csproj" />
   </ItemGroup>
 
 </Project>

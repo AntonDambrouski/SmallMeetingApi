@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetingsService.Infrastruct
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetingsService.Models", "MeetingsService.Models\MeetingsService.Models.csproj", "{9B812ECF-654E-B557-1029-D8111DAA548F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalMeet.Common", "MinimalMeet.Common\MinimalMeet.Common.csproj", "{1E610508-4CD1-86A8-B73C-C7D10DA061D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{9B812ECF-654E-B557-1029-D8111DAA548F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B812ECF-654E-B557-1029-D8111DAA548F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B812ECF-654E-B557-1029-D8111DAA548F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E610508-4CD1-86A8-B73C-C7D10DA061D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E610508-4CD1-86A8-B73C-C7D10DA061D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E610508-4CD1-86A8-B73C-C7D10DA061D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E610508-4CD1-86A8-B73C-C7D10DA061D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
